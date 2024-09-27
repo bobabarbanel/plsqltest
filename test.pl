@@ -2,6 +2,7 @@
 use strict;
 use warnings;
 use DBI;
+###################### Testing Git Push with new line in file
 
 # Database connection settings
 my $dsn      = "DBI:mysql:database=testing_db;host=localhost";
