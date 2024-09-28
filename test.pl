@@ -4,6 +4,7 @@ use strict;
 use warnings;
 use DBI;
 ###################### Testing Git Push with new line in file
+### Added another line in plsqltest2 locally
 
 # Database connection settings
 my $dsn      = "DBI:mysql:database=testing_db;host=localhost";
